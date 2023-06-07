@@ -1,5 +1,5 @@
 let dhonioldinfo ={
-    imgurl:"https://qph.cf2.quoracdn.net/main-qimg-f6bcacabffd09f4e7b5dfdd97f8db6e0-lq", 
+    imgurl:"https://www.google.com/imgres?imgurl=https%3A%2F%2Fakm-img-a-in.tosshub.com%2Findiatoday%2Fimages%2Fstory%2F202210%2Fmsdhonipresser_1200x768.jpeg%3FVersionId%3DdUcSATVVbuDf29HHu86kXCDJj88xWzQy%26size%3D690%3A388&tbnid=Zv7jEr8nsDCL-M&vet=10CBUQMyjaAWoXChMIyPDQ-sWx_wIVAAAAAB0AAAAAEAM..i&imgrefurl=https%3A%2F%2Fwww.indiatoday.in%2Fsports%2Fcricket%2Fstory%2Fms-dhoni-2011-world-cup-hairstyle-t20-world-cup-2007977-2022-10-03&docid=VqpY371CM7iBjM&w=690&h=388&q=ms%20dhoni&ved=0CBUQMyjaAWoXChMIyPDQ-sWx_wIVAAAAAB0AAAAAEAM", 
     name:"Mahendra Singh Dhoni",
     Description :"Captain"
 }
